@@ -1,0 +1,3 @@
+https://arxiv.org/abs/2311.00962
+
+https://www.researchgate.net/publication/375952278_Deep_Learning_for_Image_Authentication_A_Comparative_Study_on_Real_and_AI-Generated_Image_Classification
