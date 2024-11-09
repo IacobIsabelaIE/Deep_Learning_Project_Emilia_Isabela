@@ -1,0 +1,250 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  9 NOV 2024 14:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex
+(d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-10-09>
+(d:/texlive/2024/texmf-dist/tex/latex/llncs/llncs.cls
+Document Class: llncs 2024/10/21 v2.25 
+ LaTeX document class for Lecture Notes in Computer Science
+(d:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(d:/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (d:/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count268
+\mult@box=\box52
+\multicol@leftmargin=\dimen142
+\c@unbalance=\count269
+\c@collectmore=\count270
+\doublecol@number=\count271
+\multicoltolerance=\count272
+\multicolpretolerance=\count273
+\full@width=\dimen143
+\page@free=\dimen144
+\premulticols=\dimen145
+\postmulticols=\dimen146
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box53
+\last@line=\box54
+\mc@boxedresult=\box55
+\maxbalancingoverflow=\dimen147
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count274
+\c@columnbadness=\count275
+\c@finalcolumnbadness=\count276
+\last@try=\dimen148
+\multicolovershoot=\dimen149
+\multicolundershoot=\dimen150
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count277
+) (d:/texlive/2024/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+\c@chapter=\count278
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 379.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 380.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 381.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 382.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 383.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 384.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 385.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 386.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 387.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 388.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 389.
+LaTeX Info: Redefining \vec on input line 394.
+\tocchpnum=\dimen151
+\tocsecnum=\dimen152
+\tocsectotal=\dimen153
+\tocsubsecnum=\dimen154
+\tocsubsectotal=\dimen155
+\tocsubsubsecnum=\dimen156
+\tocsubsubsectotal=\dimen157
+\tocparanum=\dimen158
+\tocparatotal=\dimen159
+\tocsubparanum=\dimen160
+\@tempcntc=\count279
+\fnindent=\dimen161
+\c@@inst=\count280
+\c@@auth=\count281
+\c@auco=\count282
+\instindent=\dimen162
+\authrun=\box98
+\authorrunning=\toks17
+\tocauthor=\toks18
+\titrun=\box99
+\titlerunning=\toks19
+\toctitle=\toks20
+\c@theorem=\count283
+\c@case=\count284
+\c@conjecture=\count285
+\c@corollary=\count286
+\c@definition=\count287
+\c@example=\count288
+\c@exercise=\count289
+\c@lemma=\count290
+\c@note=\count291
+\c@problem=\count292
+\c@property=\count293
+\c@proposition=\count294
+\c@question=\count295
+\c@solution=\count296
+\c@remark=\count297
+\headlineindent=\dimen163
+) (d:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (d:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (d:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (d:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (d:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count298
+\l__pdf_internal_box=\box100
+) (./dl_report.aux)
+\openout1 = `dl_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+ (d:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count299
+\scratchdimen=\dimen166
+\scratchbox=\box101
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen167
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks23
+) (d:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (d:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 45.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 45.
+ (d:/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+
+[1
+
+{d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+
+[2] (./dl_report.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-10-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2044 strings out of 473577
+ 30518 string characters out of 5732224
+ 427048 words of memory out of 5000000
+ 24951 multiletter control sequences out of 15000+600000
+ 568843 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,9n,65p,362b,256s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on dl_report.pdf (2 pages, 252999 bytes).
+PDF statistics:
+ 96 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
