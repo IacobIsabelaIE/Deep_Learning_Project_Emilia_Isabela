@@ -1,1 +1,5 @@
+
 Dataset/Art/
+Dataset/Cifake/
+model.keras
+model.h5

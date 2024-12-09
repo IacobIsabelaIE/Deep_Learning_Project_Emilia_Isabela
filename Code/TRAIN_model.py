@@ -9,7 +9,7 @@ model = define_model(input_shape=(32, 32, 3), num_classes=2)
 
 history = model.fit(
     train_data,
-    epochs=2,
+    epochs=5,
     validation_data=val_data
 )
 
