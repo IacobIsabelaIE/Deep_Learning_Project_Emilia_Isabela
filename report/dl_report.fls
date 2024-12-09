@@ -62,12 +62,12 @@ INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
-INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
-INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecti0900.tfm
 OUTPUT dl_report.pdf
 INPUT d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecti0900.tfm
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
 INPUT dl_report.aux
 INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
