@@ -38,11 +38,11 @@
 %
 \begin{abstract}
 
-In a world full of images and data, where artificial intelligence is now more powerful than ever and can generate complex and lifelike digital media, it is essential to maintain a well-defined line between real content and AI-generated creations. Therefore, these authors propose a comparison between two machine learning techniques aimed at classifying images: a custom Convolutional Neural Network (CNN) and a Residual Neural Network (ResNet).
+In a world full of images and data, where artificial intelligence is now more powerful than ever and can generate complex and lifelike digital media, it is essential to maintain a well-defined line between real content and AI-generated creations. Therefore, these authors propose a comparison between two machine learning techniques aimed at classifying images: a custom Convolutional Neural Network (CNN) and a Residual Neural Network (ResNet). (modificam schimbarile la arhitectura)
 
 The custom CNN architecture relies on multiple convolutional layers to extract hierarchical features from the images, pooling layers for dimensionality reduction, and fully connected layers for final classification. On the other hand, the ResNet introduces residual connections, or skip connections, allowing the network to mitigate the vanishing gradient problem and train deeper architectures effectively. ResNet is particularly well-suited for capturing complex patterns in image data by preserving information across layers.
 
-Our attention will be focused on the CIFAKE dataset, a large dataset containing both AI-generated images and real photographs, labeled as 'Fake' and 'Real.' We will present the final results of both architectures alongside the methodology and experiments conducted. Relevant metrics such as accuracy, precision, and F1-score will be used to compare the two approaches.
+Our attention will be focused on the CIFAKE dataset, a large dataset containing both AI-generated images and real photographs, labeled as 'Fake' and 'Real'.  We will present the final results of both architectures alongside the methodology and experiments conducted. Relevant metrics such as accuracy, precision, and F1-score will be used to compare the two approaches.
 
 These experiments are crucial in an era dominated by artificial intelligence to maintain ethical and secure use of media across the internet and to address potential future legal implications.
 
@@ -54,22 +54,20 @@ These experiments are crucial in an era dominated by artificial intelligence to 
 %
 \section{Introduction}
 
-In the recent years, the field of syntethic image generation through the use of artificial intellligence (AI) has evolved quickly, and as such there's a critical need to detect these images to guarantee authenticity.
+Recently, the field of synthetic image generation through artificial intelligence (AI) has evolved rapidly, creating a critical need to detect these images to ensure authenticity and veracity. As AI-generated content becomes more sophisticated, detecting synthetic images will become increasingly challenging, posing significant risks in fields such as law, where the authenticity of visual evidence could influence the outcome of a case. This issue is particularly crucial when determining the veracity of images used in legal proceedings, where misidentification of AI-generated content could have serious consequences for justice.
 
+Therefore, our research proposes the application and optimization of well-established deep learning architectures to detect AI-generated images. Additionally, we employ adversarial attacks on these architectures to assess their robustness and effectiveness in real-world scenarios, where attempts to deceive detection systems are becoming more prevalent.
 
-Our research tries to make the following contributions:
-\begin{itemize}
-    \item Applying and optimizing deep learning established architectures in order to detect AI generated images
-    \item Employing adversial attacks on the aforementioned architectures in order to test their robustness.
-\end{itemize}
-
-The paper is constructed as follows. Section 2 mentions the related work regarding the detection of AI synthetic images. Section 3 describes the dataset used in the research, while section 4 delineates the methodology followed and the description of the experiments. Finally, section 5 presents and discusses the results optained and section 6 concludes the paper.
+The paper is structured into five main sections (excluding the introduction). Section 2 reviews the related work on detecting AI-generated images, as this area has become essential for ongoing research and development. In Section 3, we describe the dataset used in the study: the CIFAKE dataset, a widely recognized collection of both AI-generated and real images. Section 4 outlines the methodology used in our experiments, detailing the deep learning models applied and the approach for testing their robustness through adversarial attacks. In Section 5, we present the results obtained from our experiments, followed by an in-depth discussion of their implications. Finally, Section 6 concludes the paper, summarizing the key findings and suggesting potential future research directions in this rapidly advancing field.
 
 \section{Related work}
 
 The rapid advancements in image generation techniques, such as Generative Adversial Networks (GANs), Variational Autoencoders (VAEs) and diffusion models have shifted the attention to the detection of these AI generated images.
 
-\section{Data}
+\section{Dataset}
+
+In this study, we will use the CIFAKE dataset, a widely recognized dataset that includes a substantial collection of AI-generated synthetic and authentic images (Wang et al., 2024). The images are pre-labeled and categorized into two classes: 'Fake' and 'Real,' which facilitates the training process by eliminating the need for extensive pre-processing steps. Additionally, the dataset is already split into training and testing sets, comprising 100,000 training images and 20,000 testing images. This large volume of data ensures that the models have sufficient samples for training and testing, making the final results more reliable and representative.
+
 \section{Methodology}
 
 \subsubsection{Hardware and software resources} The library employed for the detection of AI synthetic generated images was Keras (maybe link??). For reproductability purposes, we set the seed to 42. All algorithms in this study were run on Google Colab resources.
