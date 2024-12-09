@@ -12,4 +12,6 @@ https://arxiv.org/pdf/2303.09295
 
 https://arxiv.org/pdf/2210.14571
 
+https://arxiv.org/html/2401.07358v2
+
 https://www.connectedpapers.com/main/f4e2627d6f46ed6870b776073ab2fee3371080d0/FakeInversion%3A-Learning-to-Detect-Images-from-Unseen-Text%20to%20Image-Models-by-Inverting-Stable-Diffusion/graph

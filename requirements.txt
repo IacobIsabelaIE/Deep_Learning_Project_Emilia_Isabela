@@ -1,0 +1,5 @@
+kagglehub
+tensorflow
+numpy
+matplotlib
+pillow
