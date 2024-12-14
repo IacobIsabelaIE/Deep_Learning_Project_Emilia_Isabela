@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex dl_report"] 1734193786.32092 "dl_report.aux" "dl_report.bbl" "dl_report" 1734193788.17523 0
+["bibtex dl_report"] 1734193786.32092 "dl_report.aux" "dl_report.bbl" "dl_report" 1734195443.20908 0
   "./references.bib" 1734193516 5912 796ec7a03c382dab16dddfdbad070582 ""
   "d:/texlive/2024/texmf-dist/bibtex/bst/llncs/splncs04.bst" 1729786978 32146 aadf770ded437d161532035219ea6f45 ""
-  "dl_report.aux" 1734193787 2067 444aec891ea7fc5dc79cb1df599a6b8d "pdflatex"
+  "dl_report.aux" 1734195442 2067 444aec891ea7fc5dc79cb1df599a6b8d "pdflatex"
   (generated)
   "dl_report.bbl"
   "dl_report.blg"
   (rewritten before read)
-["pdflatex"] 1734193786.71435 "d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex" "dl_report.pdf" "dl_report" 1734193788.17556 0
-  "d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex" 1734193784 8683 6e81ea1c6e335e664ae17b173caa8f6f ""
+["pdflatex"] 1734195441.56762 "d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex" "dl_report.pdf" "dl_report" 1734195443.20943 0
+  "d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex" 1734195440 8795 cc9b06c4ee3074610711fc26054add4c ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1729784190 2971 def0b6c1f0b107b3b936def894055589 ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1729784190 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "d:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1729785551 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -60,9 +60,9 @@
   "d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729791140 5521136 413d4c319f2bc8e15312dccd0b40f787 ""
   "d:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1729793919 3325928 c2307a2d2bf28b0bf0194b9de4739dc3 ""
   "d:/texlive/2024/texmf.cnf" 1729791100 713 e69b156964470283e0530f5060668171 ""
-  "dl_report.aux" 1734193787 2067 444aec891ea7fc5dc79cb1df599a6b8d "pdflatex"
+  "dl_report.aux" 1734195442 2067 444aec891ea7fc5dc79cb1df599a6b8d "pdflatex"
   "dl_report.bbl" 1734193786 3255 098a993d11d818cf42b5ec43c20dbeba "bibtex dl_report"
-  "dl_report.tex" 1734193784 8683 6e81ea1c6e335e664ae17b173caa8f6f ""
+  "dl_report.tex" 1734195440 8795 cc9b06c4ee3074610711fc26054add4c ""
   (generated)
   "dl_report.aux"
   "dl_report.log"
