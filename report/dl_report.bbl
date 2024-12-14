@@ -1,0 +1,39 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{brock2019largescalegantraining}
+Brock, A., Donahue, J., Simonyan, K.: Large scale gan training for high fidelity natural image synthesis (2019), \url{https://arxiv.org/abs/1809.11096}
+
+\bibitem{dhariwal2021adm}
+Dhariwal, P., Nichol, A.: Diffusion models beat gans on image synthesis. In: Advances in Neural Information Processing Systems. vol.~34, pp. 8780--8794 (2021), \url{https://proceedings.neurips.cc/paper\_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf}
+
+\bibitem{shuyang2022vqdm}
+Gu, S., Chen, D., Bao, J., Wen, F., Zhang, B., Chen, D., Yuan, L., Guo, B.: Vector quantized diffusion model for text-to-image synthesis. In: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). pp. 10686--10696 (2022). \doi{10.1109/CVPR52688.2022.01043}
+
+\bibitem{francesco2019fingerprint}
+Marra, F., Gragnaniello, D., Verdoliva, L., Poggi, G.: Do gans leave artificial fingerprints? In: 2019 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR). pp. 506--511 (2019). \doi{10.1109/MIPR.2019.00103}
+
+\bibitem{midjourney}
+Midjourney:  (2022), \url{https://www.midjourney.com/home}
+
+\bibitem{nichol2022glide}
+Nichol, A.Q., Dhariwal, P., Ramesh, A., Shyam, P., Mishkin, P., Mcgrew, B., Sutskever, I., Chen, M.: {GLIDE}: Towards photorealistic image generation and editing with text-guided diffusion models. In: Proceedings of the 39th International Conference on Machine Learning. Proceedings of Machine Learning Research, vol.~162, pp. 16784--16804. PMLR (17-23 Jul 2022), \url{https://proceedings.mlr.press/v162/nichol22a.html}
+
+\bibitem{ojha2023towards}
+Ojha, U., Li, Y., Lee, Y.J.: Towards universal fake image detectors that generalize across generative models. In: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). pp. 24480--24489 (2023). \doi{10.1109/CVPR52729.2023.02345}
+
+\bibitem{robin2022sd}
+Rombach, R., Blattmann, A., Lorenz, D., Esser, P., Ommer, B.: { High-Resolution Image Synthesis with Latent Diffusion Models }. In: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). pp. 10674--10685. IEEE Computer Society (2022). \doi{10.1109/CVPR52688.2022.01042}, \url{https://doi.ieeecomputersociety.org/10.1109/CVPR52688.2022.01042}
+
+\bibitem{wang2019cnngenerated}
+Wang, S.Y., Wang, O., Zhang, R., Owens, A., Efros, A.A.: Cnn-generated images are surprisingly easy to spot...for now. In: CVPR (2020)
+
+\bibitem{ning2019fingerprint}
+Yu, N., Davis, L., Fritz, M.: Attributing fake images to gans: Learning and analyzing gan fingerprints. In: 2019 IEEE/CVF International Conference on Computer Vision (ICCV). pp. 7555--7565 (2019). \doi{10.1109/ICCV.2019.00765}
+
+\bibitem{zhu2023genimage}
+Zhu, M., Chen, H., YAN, Q., Huang, X., Lin, G., Li, W., Tu, Z., Hu, H., Hu, J., Wang, Y.: Genimage: A million-scale benchmark for detecting ai-generated image. In: Advances in Neural Information Processing Systems. vol.~36, pp. 77771--77782 (2023), \url{https://proceedings.neurips.cc/paper\_files/paper/2023/file/f4d4a021f9051a6c18183b059117e8b5-Paper-Datasets\_and\_Benchmarks.pdf}
+
+\end{thebibliography}
