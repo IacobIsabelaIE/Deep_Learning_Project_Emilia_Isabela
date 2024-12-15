@@ -84,9 +84,19 @@ In this study, we use the GenImage dataset~\cite{zhu2023genimage}, a comprehensi
 %
 \section{Methodology}
 
-In this section, we introduce the methodology followed when conducting the experiments. 
+In this paper, we will address the task of classifying images into two categories: images that an AI model and real images generated. For this experiment, we employed a comprehensive approach that involves three different models: a model that uses a custom Convolutional Neural Network (CNN), a pre-trained ResNet model, and a ConvNextSmall network. In this section, we will provide details about the dataset preparation, the network architectures we used, and the evaluation metrics that we used to measure the performance of the three models. 
+
+\subsubsection{Data preparation} As mentioned in a previous section, we used the GenImage dataset that contains several state-of-the-art generative models. The images were separated into different folders, with a training and a validation subfolder, both having two categories: ai and nature. We used all the training and validation images from all the folders, for better training. The images were pre-processed to maintain compatibility with the models, especially with the pre-trained networks, and to standardize input dimensions across the models. We didn't use any data augmentation techniques for this experiment. MODIFICAM DUPA DACA FACEM
+
 
 \subsubsection{Hardware and software resources} The library employed for the detection of AI synthetic generated images was Keras (maybe link??). For reproductability purposes, we set the seed to 42. All algorithms in this study were run on Google Colab resources.
+
+\subsubsection{Model Architectures } As mentioned, for this task we employed three model architectures:  a custom CNN designed specifically for the classification task, a ResNet model fine-tuned from pre-trained weights, and a ConvNextSmall network adapted for binary classification. 
+The custom CNN used in this task was designed as a lightweight model, suitable for image classification tasks. We implemented this architecture using TensorFlow and Keras, and it consists of convolutional, pooling, and dense layers, organized to facilitate effective classification. The model uses images of dimensions 32x32x3, and the process begins with three convolutional layers. We use the ReLU(Rectified Linear Unit) activation, padding "Same", that ensures the output dimensions remain consistent with the input, and max-pooling operation, which reduces the spatial dimensions by half, to retain the most salient features. After the convolutional and pooling operations, the output feature maps are flattened into a one-dimensional vector, to prepare them for the dense layers, which consist of 128 neurons with ReLU activation and a dropout layer with a rate of 0.5, to mitigate overfitting by randomly deactivating half of the neurons during training. The output layer is a dense layer with a number of neurons equal to the number of classes (2 classes) and it utilizes a SoftMax activation function. These techniques provide class probabilities for the binary classification task. The model is compiled using an Adam optimizer and we use a categorical cross-entropy loss function.
+
+!!!!!!!!Resnet
+
+!!!!!!!!!!ConvNextSmall
 
 %
 % ---- Results and discussion ----
