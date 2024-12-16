@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  14 DEC 2024 18:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  16 DEC 2024 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -230,7 +230,15 @@ a shorter form with \titlerunning prior to \maketitle
 
 {d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
-[2] (./dl_report.bbl
+[2]
+<graphics/dataset_sample.jpeg, id=17, 1219.55624pt x 466.74374pt>
+File: graphics/dataset_sample.jpeg Graphic file (type jpg)
+<use graphics/dataset_sample.jpeg>
+Package pdftex.def Info: graphics/dataset_sample.jpeg  used on input line 82.
+(pdftex.def)             Requested size: 277.69987pt x 106.2805pt.
+ (./dl_report.bbl
+
+[3 <./graphics/dataset_sample.jpeg>]
 Overfull \hbox (62.01093pt too wide) in paragraph at lines 10--11
 \T1/cmr/m/n/9 https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-
  []
@@ -246,8 +254,6 @@ Underfull \hbox (badness 2707) in paragraph at lines 22--23
  []
 
 
-
-[3]
 Underfull \hbox (badness 2608) in paragraph at lines 25--26
 \T1/cmr/m/n/9 puter Vi-sion and Pat-tern Recog-ni-tion (CVPR). pp. 24480--24489 (2023).
  []
@@ -286,18 +292,18 @@ L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2122 strings out of 473577
- 31199 string characters out of 5732224
- 428818 words of memory out of 5000000
- 25027 multiletter control sequences out of 15000+600000
+ 2132 strings out of 473577
+ 31519 string characters out of 5732224
+ 428832 words of memory out of 5000000
+ 25037 multiletter control sequences out of 15000+600000
  568692 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,1485b,312s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,65p,1574b,310s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on dl_report.pdf (4 pages, 168054 bytes).
+Output written on dl_report.pdf (4 pages, 343631 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
