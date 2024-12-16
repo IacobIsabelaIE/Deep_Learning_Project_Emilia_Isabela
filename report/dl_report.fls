@@ -70,6 +70,11 @@ INPUT d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm
 INPUT d:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
+INPUT ./graphics/dataset_sample.jpeg
+INPUT ./graphics/dataset_sample.jpeg
+INPUT ./graphics/dataset_sample.jpeg
+INPUT ./graphics/dataset_sample.jpeg
+INPUT ./graphics/dataset_sample.jpeg
 INPUT ./dl_report.bbl
 INPUT ./dl_report.bbl
 INPUT dl_report.bbl
