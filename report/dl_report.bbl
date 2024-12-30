@@ -12,6 +12,12 @@ Dhariwal, P., Nichol, A.: Diffusion models beat gans on image synthesis. In: Adv
 \bibitem{shuyang2022vqdm}
 Gu, S., Chen, D., Bao, J., Wen, F., Zhang, B., Chen, D., Yuan, L., Guo, B.: Vector quantized diffusion model for text-to-image synthesis. In: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). pp. 10686--10696 (2022). \doi{10.1109/CVPR52688.2022.01043}
 
+\bibitem{liu2021swin}
+Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., Lin, S., Guo, B.: Swin transformer: Hierarchical vision transformer using shifted windows (2021), \url{https://arxiv.org/abs/2103.14030}
+
+\bibitem{liu2022convnet}
+Liu, Z., Mao, H., Wu, C.Y., Feichtenhofer, C., Darrell, T., Xie, S.: A convnet for the 2020s (2022), \url{https://arxiv.org/abs/2201.03545}
+
 \bibitem{francesco2019fingerprint}
 Marra, F., Gragnaniello, D., Verdoliva, L., Poggi, G.: Do gans leave artificial fingerprints? In: 2019 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR). pp. 506--511 (2019). \doi{10.1109/MIPR.2019.00103}
 
@@ -24,6 +30,12 @@ Nichol, A.Q., Dhariwal, P., Ramesh, A., Shyam, P., Mishkin, P., Mcgrew, B., Suts
 \bibitem{ojha2023towards}
 Ojha, U., Li, Y., Lee, Y.J.: Towards universal fake image detectors that generalize across generative models. In: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). pp. 24480--24489 (2023). \doi{10.1109/CVPR52729.2023.02345}
 
+\bibitem{oord2016pixelcnn}
+van~den Oord, A., Kalchbrenner, N., Vinyals, O., Espeholt, L., Graves, A., Kavukcuoglu, K.: Conditional image generation with pixelcnn decoders (2016), \url{https://arxiv.org/abs/1606.05328}
+
+\bibitem{ramesh2022clip}
+Ramesh, A., Dhariwal, P., Nichol, A., Chu, C., Chen, M.: Hierarchical text-conditional image generation with clip latents (2022), \url{https://arxiv.org/abs/2204.06125}
+
 \bibitem{robin2022sd}
 Rombach, R., Blattmann, A., Lorenz, D., Esser, P., Ommer, B.: { High-Resolution Image Synthesis with Latent Diffusion Models }. In: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). pp. 10674--10685. IEEE Computer Society (2022). \doi{10.1109/CVPR52688.2022.01042}, \url{https://doi.ieeecomputersociety.org/10.1109/CVPR52688.2022.01042}
 
@@ -35,9 +47,5 @@ Yu, N., Davis, L., Fritz, M.: Attributing fake images to gans: Learning and anal
 
 \bibitem{zhu2023genimage}
 Zhu, M., Chen, H., YAN, Q., Huang, X., Lin, G., Li, W., Tu, Z., Hu, H., Hu, J., Wang, Y.: Genimage: A million-scale benchmark for detecting ai-generated image. In: Advances in Neural Information Processing Systems. vol.~36, pp. 77771--77782 (2023), \url{https://proceedings.neurips.cc/paper\_files/paper/2023/file/f4d4a021f9051a6c18183b059117e8b5-Paper-Datasets\_and\_Benchmarks.pdf}
-
-\bibitem{Ramesh2022CLIP}
-Ramesh, A., Dhariwal, P., Nichol, A., Chu, C., Chen, M.: Hierarchical Text-Conditional Image Generation with CLIP Latents, \url{https://arxiv.org/abs/2204.06125}
-
 
 \end{thebibliography}

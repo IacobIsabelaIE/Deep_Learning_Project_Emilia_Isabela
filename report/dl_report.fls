@@ -35,6 +35,8 @@ INPUT d:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT d:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT d:/texlive/2024/texmf-dist/tex/latex/cite/cite.sty
 INPUT d:/texlive/2024/texmf-dist/tex/latex/cite/cite.sty
+INPUT d:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT d:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./dl_report.aux
@@ -75,6 +77,11 @@ INPUT ./graphics/dataset_sample.jpeg
 INPUT ./graphics/dataset_sample.jpeg
 INPUT ./graphics/dataset_sample.jpeg
 INPUT ./graphics/dataset_sample.jpeg
+INPUT ./graphics/custom_model.png
+INPUT ./graphics/custom_model.png
+INPUT ./graphics/custom_model.png
+INPUT ./graphics/custom_model.png
+INPUT ./graphics/custom_model.png
 INPUT ./dl_report.bbl
 INPUT ./dl_report.bbl
 INPUT dl_report.bbl
