@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  16 DEC 2024 11:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  30 DEC 2024 01:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -173,39 +173,45 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
+) (d:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count298
+\multirow@dima=\skip54
+\bigstrutjot=\dimen166
 ) (d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
+\l__color_backend_stack_int=\count299
 \l__pdf_internal_box=\box100
 ) (./dl_report.aux)
 \openout1 = `dl_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
  (d:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
-\scratchdimen=\dimen166
+\scratchcounter=\count300
+\scratchdimen=\dimen167
 \scratchbox=\box101
-\nofMPsegments=\count300
-\nofMParguments=\count301
+\nofMPsegments=\count301
+\nofMParguments=\count302
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count302
-\MPscratchDim=\dimen167
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen168
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
 \everyMPtoPDFconversion=\toks23
 ) (d:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -214,16 +220,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
+(Font)              <7> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
+(Font)              <5> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 38.
+(Font)              <9> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
-
-Title too long for running head. Please supply
-a shorter form with \titlerunning prior to \maketitle
+(Font)              <6> on input line 40.
 
 
 [1
@@ -234,76 +237,109 @@ a shorter form with \titlerunning prior to \maketitle
 <graphics/dataset_sample.jpeg, id=17, 1219.55624pt x 466.74374pt>
 File: graphics/dataset_sample.jpeg Graphic file (type jpg)
 <use graphics/dataset_sample.jpeg>
-Package pdftex.def Info: graphics/dataset_sample.jpeg  used on input line 82.
+Package pdftex.def Info: graphics/dataset_sample.jpeg  used on input line 83.
 (pdftex.def)             Requested size: 277.69987pt x 106.2805pt.
- (./dl_report.bbl
 
-[3 <./graphics/dataset_sample.jpeg>]
+
+[3]
+
+[4 <./graphics/dataset_sample.jpeg>]
+<graphics/custom_model.png, id=26, 1251.67625pt x 3602.45876pt>
+File: graphics/custom_model.png Graphic file (type png)
+<use graphics/custom_model.png>
+Package pdftex.def Info: graphics/custom_model.png  used on input line 103.
+(pdftex.def)             Requested size: 128.51727pt x 369.88582pt.
+
+
+[5 <./graphics/custom_model.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[6]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[7] (./dl_report.bbl
 Overfull \hbox (62.01093pt too wide) in paragraph at lines 10--11
 \T1/cmr/m/n/9 https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 22--23
+
+[8]
+Underfull \hbox (badness 1057) in paragraph at lines 28--29
 \T1/cmr/m/n/9 B., Sutskever, I., Chen, M.: GLIDE: To-wards pho-to-re-al-is-tic im-age gen-er-a-
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 22--23
+Underfull \hbox (badness 2707) in paragraph at lines 28--29
 \T1/cmr/m/n/9 39th In-ter-na-tional Con-fer-ence on Ma-chine Learn-ing. Pro-ceed-ings of Ma-
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 25--26
+Underfull \hbox (badness 2608) in paragraph at lines 31--32
 \T1/cmr/m/n/9 puter Vi-sion and Pat-tern Recog-ni-tion (CVPR). pp. 24480--24489 (2023).
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]\T1/cmr/m/n/9 Ramesh, A., Dhari-wal, P., Nichol, A., Chu, C., Chen, M.: Hi-er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\T1/cmr/m/n/9 ar-chi-cal text-conditional im-age gen-er-a-tion with clip la-tents (2022),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 []\T1/cmr/m/n/9 Zhu, M., Chen, H., YAN, Q., Huang, X., Lin, G., Li, W., Tu,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 \T1/cmr/m/n/9 Z., Hu, H., Hu, J., Wang, Y.: Gen-im-age: A million-scale bench-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 \T1/cmr/m/n/9 mark for de-tect-ing ai-generated im-age. In: Ad-vances in Neu-ral In-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 \T1/cmr/m/n/9 for-ma-tion Pro-cess-ing Sys-tems. vol. 36, pp. 77771--77782 (2023),
  []
 
 
-Overfull \hbox (62.01094pt too wide) in paragraph at lines 37--38
+Overfull \hbox (62.01094pt too wide) in paragraph at lines 49--50
 \T1/cmr/m/n/9 https://proceedings.neurips.cc/paper_files/paper/2023/file/f4d4a021f9051a6c18183b059117e8b5-
  []
 
 )
 
-[4] (./dl_report.aux)
+[9] (./dl_report.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2132 strings out of 473577
- 31519 string characters out of 5732224
- 428832 words of memory out of 5000000
- 25037 multiletter control sequences out of 15000+600000
+ 2219 strings out of 473577
+ 33161 string characters out of 5732224
+ 431851 words of memory out of 5000000
+ 25120 multiletter control sequences out of 15000+600000
  568692 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,1574b,310s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,2595b,311s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on dl_report.pdf (4 pages, 343631 bytes).
+Output written on dl_report.pdf (9 pages, 563082 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
