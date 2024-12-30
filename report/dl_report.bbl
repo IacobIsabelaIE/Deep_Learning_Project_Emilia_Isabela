@@ -48,4 +48,7 @@ Yu, N., Davis, L., Fritz, M.: Attributing fake images to gans: Learning and anal
 \bibitem{zhu2023genimage}
 Zhu, M., Chen, H., YAN, Q., Huang, X., Lin, G., Li, W., Tu, Z., Hu, H., Hu, J., Wang, Y.: Genimage: A million-scale benchmark for detecting ai-generated image. In: Advances in Neural Information Processing Systems. vol.~36, pp. 77771--77782 (2023), \url{https://proceedings.neurips.cc/paper\_files/paper/2023/file/f4d4a021f9051a6c18183b059117e8b5-Paper-Datasets\_and\_Benchmarks.pdf}
 
+\bibitem{moskowitz2024clip}
+Moskowitz, A., Gaona, T., Peterson, J.: Detecting AI-Generated Images via CLIP (2024)
+
 \end{thebibliography}
