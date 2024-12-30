@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex dl_report"] 1735513840.48147 "dl_report.aux" "dl_report.bbl" "dl_report" 1735513933.42999 0
-  "./references.bib" 1735513835 6428 4f7dc0b381933f380d034332f50f8f2d ""
+["bibtex dl_report"] 1735580714.27578 "dl_report.aux" "dl_report.bbl" "dl_report" 1735580716.6951 0
+  "./references.bib" 1735580589 6657 f258747623895733de17797cd719f1e9 ""
   "d:/texlive/2024/texmf-dist/bibtex/bst/llncs/splncs04.bst" 1729786978 32146 aadf770ded437d161532035219ea6f45 ""
-  "dl_report.aux" 1735513932 3069 c77a66c7ea7d00e04e9018940e44d306 "pdflatex"
+  "dl_report.aux" 1735580715 4071 12d38fee6e4b43bc13965fc86b5f9d96 "pdflatex"
   (generated)
   "dl_report.bbl"
   "dl_report.blg"
   (rewritten before read)
-["pdflatex"] 1735513931.43041 "d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex" "dl_report.pdf" "dl_report" 1735513933.43029 0
-  "d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex" 1735513930 23837 cc6602bf473ebb082f95a059618d5861 ""
+["pdflatex"] 1735580714.67591 "d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex" "dl_report.pdf" "dl_report" 1735580716.6954 0
+  "d:/Repos/Deep_Learning_Project_Emilia_Isabela/report/dl_report.tex" 1735580711 26954 668cf7377f1d37bdd3aefa914dba91cc ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1729784190 2971 def0b6c1f0b107b3b936def894055589 ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1729784190 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "d:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1729785551 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -43,8 +43,12 @@
   "d:/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1729786698 20144 67a5f8e0f9e445e8ec6834e595cebdc9 ""
   "d:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty" 1729786698 5275 b64d8404d74d2860b9c6558239dd0784 ""
   "d:/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1729786698 8448 358bf3de18513f057a13bdc6e6770c41 ""
+  "d:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty" 1729783875 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
+  "d:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty" 1729783875 72619 ee90b6612147680fd73c3b1406a74245 ""
+  "d:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty" 1729783875 12494 0c0cdb824278a4d51cefeb2e79901315 ""
   "d:/texlive/2024/texmf-dist/tex/latex/cite/cite.sty" 1729784097 26218 19edeff8cdc2bcb704e8051dc55eb5a7 ""
   "d:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1729785180 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "d:/texlive/2024/texmf-dist/tex/latex/float/float.sty" 1729785504 6749 16d2656a1984957e674b149555f1ea1d ""
   "d:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1729785850 1224 978390e9c2234eab29404bc21b268d1e ""
   "d:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def" 1729785850 19440 9da9dcbb27470349a580fca7372d454b ""
   "d:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty" 1729785847 18363 b79c83eab17bf475b508f05e9807e605 ""
@@ -61,11 +65,18 @@
   "d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729791140 5521136 413d4c319f2bc8e15312dccd0b40f787 ""
   "d:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1729793919 3325928 c2307a2d2bf28b0bf0194b9de4739dc3 ""
   "d:/texlive/2024/texmf.cnf" 1729791100 713 e69b156964470283e0530f5060668171 ""
-  "dl_report.aux" 1735513932 3069 c77a66c7ea7d00e04e9018940e44d306 "pdflatex"
-  "dl_report.bbl" 1735513840 4050 15fd1f7290c805e338cf636b91364ab3 "bibtex dl_report"
-  "dl_report.tex" 1735513930 23837 cc6602bf473ebb082f95a059618d5861 ""
-  "graphics/custom_model.png" 1735513030 272854 7b0e1bd4edfb19f368a3cf8b9317d3e2 ""
-  "graphics/dataset_sample.jpeg" 1735322676 174408 1801d42c138f6430f4e8508034f39b88 ""
+  "dl_report.aux" 1735580715 4071 12d38fee6e4b43bc13965fc86b5f9d96 "pdflatex"
+  "dl_report.bbl" 1735580714 4135 1871d11d53bed8df8133b926dbc2f6d6 "bibtex dl_report"
+  "dl_report.tex" 1735580711 26954 668cf7377f1d37bdd3aefa914dba91cc ""
+  "graphics/ConvRes.png" 1735578668 55460 ef5de6400625ea7d0920f47b90d84e68 ""
+  "graphics/accuracy_convnext.png" 1735579671 30640 03bea08ff3b4c43c31c5d434650bb070 ""
+  "graphics/accuracy_custom.png" 1735579685 31329 86b294369e88f1ae717790c1978747a8 ""
+  "graphics/accuracy_resnet.png" 1735579652 31606 f06d72f77e77a4615004988da007d730 ""
+  "graphics/custom_model.png" 1735578668 272854 7b0e1bd4edfb19f368a3cf8b9317d3e2 ""
+  "graphics/dataset_sample.jpeg" 1735578668 174408 1801d42c138f6430f4e8508034f39b88 ""
+  "graphics/loss_convnext.png" 1735579678 26201 309d1b723ac8116fbd63686ae9bd9496 ""
+  "graphics/loss_custom.png" 1735579690 27488 f64f0e25b980a0a5d5435fd105b72084 ""
+  "graphics/loss_resnet.png" 1735579659 28744 9ddab57dc0c84c33fbc3b3f0efaa0b36 ""
   (generated)
   "dl_report.aux"
   "dl_report.log"

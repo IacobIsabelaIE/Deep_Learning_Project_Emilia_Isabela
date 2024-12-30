@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  30 DEC 2024 01:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  30 DEC 2024 19:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -151,11 +151,18 @@ LaTeX Info: Redefining \vec on input line 394.
 \headlineindent=\dimen163
 ) (d:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (d:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count298
+\float@exts=\toks21
+\float@box=\box100
+\@float@everytoks=\toks22
+\@floatcapt=\box101
 ) (d:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (d:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
+\KV@toks@=\toks23
 ) (d:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
  (d:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
@@ -176,57 +183,94 @@ Package: cite 2015/02/27  v 5.5
 ) (d:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip53
-\multirow@cntb=\count298
+\multirow@cntb=\count299
 \multirow@dima=\skip54
 \bigstrutjot=\dimen166
+) (d:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (d:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (d:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen167
+\captionmargin=\dimen168
+\caption@leftmargin=\dimen169
+\caption@rightmargin=\dimen170
+\caption@width=\dimen171
+\caption@indent=\dimen172
+\caption@parindent=\dimen173
+\caption@hangindent=\dimen174
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\small \vskip \abovecaptionskip \sbox \@tempboxa {{\bfseries #1.} #2}\ifdim \wd \@tempboxa >\hsize {\bfseries #1.} #2\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \vskip \belowcaptionskip  on input line 1175.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
+Package caption Info: float package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count302
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count303
 ) (d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count299
-\l__pdf_internal_box=\box100
-) (./dl_report.aux)
+\l__color_backend_stack_int=\count304
+\l__pdf_internal_box=\box102
+) (./dl_report.aux
+
+LaTeX Warning: Label `fig:custom-cnn' multiply defined.
+
+)
 \openout1 = `dl_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
  (d:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count300
-\scratchdimen=\dimen167
-\scratchbox=\box101
-\nofMPsegments=\count301
-\nofMParguments=\count302
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count303
-\MPscratchDim=\dimen168
-\MPnumerator=\count304
-\makeMPintoPDFobject=\count305
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count305
+\scratchdimen=\dimen175
+\scratchbox=\box103
+\nofMPsegments=\count306
+\nofMParguments=\count307
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count308
+\MPscratchDim=\dimen176
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
+\everyMPtoPDFconversion=\toks25
 ) (d:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (d:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 40.
+(Font)              <7> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 40.
+(Font)              <5> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 40.
+(Font)              <9> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 40.
+(Font)              <6> on input line 47.
 
 
 [1
@@ -234,112 +278,156 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 [2]
-<graphics/dataset_sample.jpeg, id=17, 1219.55624pt x 466.74374pt>
-File: graphics/dataset_sample.jpeg Graphic file (type jpg)
-<use graphics/dataset_sample.jpeg>
-Package pdftex.def Info: graphics/dataset_sample.jpeg  used on input line 83.
-(pdftex.def)             Requested size: 277.69987pt x 106.2805pt.
-
 
 [3]
+<graphics/dataset_sample.jpeg, id=20, 1219.55624pt x 466.74374pt>
+File: graphics/dataset_sample.jpeg Graphic file (type jpg)
+<use graphics/dataset_sample.jpeg>
+Package pdftex.def Info: graphics/dataset_sample.jpeg  used on input line 90.
+(pdftex.def)             Requested size: 277.69987pt x 106.2805pt.
+<graphics/ConvRes.png, id=21, 937.5025pt x 458.71375pt>
+File: graphics/ConvRes.png Graphic file (type png)
+<use graphics/ConvRes.png>
+Package pdftex.def Info: graphics/ConvRes.png  used on input line 108.
+(pdftex.def)             Requested size: 347.12354pt x 169.84041pt.
+
 
 [4 <./graphics/dataset_sample.jpeg>]
-<graphics/custom_model.png, id=26, 1251.67625pt x 3602.45876pt>
+<graphics/custom_model.png, id=28, 1251.67625pt x 3602.45876pt>
 File: graphics/custom_model.png Graphic file (type png)
 <use graphics/custom_model.png>
-Package pdftex.def Info: graphics/custom_model.png  used on input line 103.
+Package pdftex.def Info: graphics/custom_model.png  used on input line 121.
 (pdftex.def)             Requested size: 128.51727pt x 369.88582pt.
 
-
-[5 <./graphics/custom_model.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[6]
+[5 <./graphics/ConvRes.png>]
+
+[6 <./graphics/custom_model.png>]
+
+[7]
+<graphics/accuracy_resnet.png, id=41, 617.9085pt x 339.669pt>
+File: graphics/accuracy_resnet.png Graphic file (type png)
+<use graphics/accuracy_resnet.png>
+Package pdftex.def Info: graphics/accuracy_resnet.png  used on input line 156.
+(pdftex.def)             Requested size: 156.20453pt x 85.86551pt.
+<graphics/loss_resnet.png, id=42, 617.9085pt x 339.669pt>
+File: graphics/loss_resnet.png Graphic file (type png)
+<use graphics/loss_resnet.png>
+Package pdftex.def Info: graphics/loss_resnet.png  used on input line 162.
+(pdftex.def)             Requested size: 156.20453pt x 85.86551pt.
+<graphics/accuracy_convnext.png, id=43, 617.9085pt x 339.669pt>
+File: graphics/accuracy_convnext.png Graphic file (type png)
+<use graphics/accuracy_convnext.png>
+Package pdftex.def Info: graphics/accuracy_convnext.png  used on input line 170.
+(pdftex.def)             Requested size: 156.20453pt x 85.86551pt.
+<graphics/loss_convnext.png, id=44, 617.9085pt x 339.669pt>
+File: graphics/loss_convnext.png Graphic file (type png)
+<use graphics/loss_convnext.png>
+Package pdftex.def Info: graphics/loss_convnext.png  used on input line 176.
+(pdftex.def)             Requested size: 156.20453pt x 85.86551pt.
+<graphics/accuracy_custom.png, id=45, 617.9085pt x 339.669pt>
+File: graphics/accuracy_custom.png Graphic file (type png)
+<use graphics/accuracy_custom.png>
+Package pdftex.def Info: graphics/accuracy_custom.png  used on input line 184.
+(pdftex.def)             Requested size: 156.20453pt x 85.86551pt.
+<graphics/loss_custom.png, id=46, 611.4042pt x 339.669pt>
+File: graphics/loss_custom.png Graphic file (type png)
+<use graphics/loss_custom.png>
+Package pdftex.def Info: graphics/loss_custom.png  used on input line 190.
+(pdftex.def)             Requested size: 156.20453pt x 86.77771pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[7] (./dl_report.bbl
+[8]
+
+[9 <./graphics/accuracy_resnet.png> <./graphics/loss_resnet.png> <./graphics/accuracy_convnext.png> <./graphics/loss_convnext.png> <./graphics/accuracy_custom.png> <./graphics/loss_custom.png>] (./dl_report.bbl
 Overfull \hbox (62.01093pt too wide) in paragraph at lines 10--11
 \T1/cmr/m/n/9 https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-
  []
 
 
 
-[8]
-Underfull \hbox (badness 1057) in paragraph at lines 28--29
+[10]
+Underfull \hbox (badness 1057) in paragraph at lines 31--32
 \T1/cmr/m/n/9 B., Sutskever, I., Chen, M.: GLIDE: To-wards pho-to-re-al-is-tic im-age gen-er-a-
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 28--29
+Underfull \hbox (badness 2707) in paragraph at lines 31--32
 \T1/cmr/m/n/9 39th In-ter-na-tional Con-fer-ence on Ma-chine Learn-ing. Pro-ceed-ings of Ma-
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 31--32
+Underfull \hbox (badness 2608) in paragraph at lines 34--35
 \T1/cmr/m/n/9 puter Vi-sion and Pat-tern Recog-ni-tion (CVPR). pp. 24480--24489 (2023).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 []\T1/cmr/m/n/9 Ramesh, A., Dhari-wal, P., Nichol, A., Chu, C., Chen, M.: Hi-er-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 \T1/cmr/m/n/9 ar-chi-cal text-conditional im-age gen-er-a-tion with clip la-tents (2022),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 []\T1/cmr/m/n/9 Zhu, M., Chen, H., YAN, Q., Huang, X., Lin, G., Li, W., Tu,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 \T1/cmr/m/n/9 Z., Hu, H., Hu, J., Wang, Y.: Gen-im-age: A million-scale bench-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 \T1/cmr/m/n/9 mark for de-tect-ing ai-generated im-age. In: Ad-vances in Neu-ral In-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 \T1/cmr/m/n/9 for-ma-tion Pro-cess-ing Sys-tems. vol. 36, pp. 77771--77782 (2023),
  []
 
 
-Overfull \hbox (62.01094pt too wide) in paragraph at lines 49--50
+Overfull \hbox (62.01094pt too wide) in paragraph at lines 52--53
 \T1/cmr/m/n/9 https://proceedings.neurips.cc/paper_files/paper/2023/file/f4d4a021f9051a6c18183b059117e8b5-
  []
 
 )
 
-[9] (./dl_report.aux)
+[11] (./dl_report.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 2219 strings out of 473577
- 33161 string characters out of 5732224
- 431851 words of memory out of 5000000
- 25120 multiletter control sequences out of 15000+600000
+ 3806 strings out of 473577
+ 64025 string characters out of 5732224
+ 460388 words of memory out of 5000000
+ 26694 multiletter control sequences out of 15000+600000
  568692 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,10n,65p,2595b,311s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,10n,77p,2650b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on dl_report.pdf (9 pages, 563082 bytes).
+Output written on dl_report.pdf (11 pages, 727041 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 108 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
