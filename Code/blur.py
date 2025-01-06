@@ -72,7 +72,6 @@ def load_data(base_dir, target_size=(224, 224), batch_size=32, num_classes=2, pr
         for gen in generators:
             yield from gen
     
-    # Create base dataset from generators
     base_dataset = tf.data.Dataset.from_generator(
         lambda: combine_generators(test_generators),
         output_signature=(
@@ -81,7 +80,6 @@ def load_data(base_dir, target_size=(224, 224), batch_size=32, num_classes=2, pr
         )
     )
     
-    # Apply random blur transformation to images
     def apply_blur_to_batch(images, labels):
         processed_images = tf.map_fn(
             lambda x: apply_random_blur(x, probability=probability),
@@ -90,7 +88,6 @@ def load_data(base_dir, target_size=(224, 224), batch_size=32, num_classes=2, pr
         )
         return processed_images, labels
 
-    # Map the blur transformation to the dataset
     test_dataset = base_dataset.map(apply_blur_to_batch)
 
     return test_dataset, total_test_samples
